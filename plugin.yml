@@ -1,0 +1,8 @@
+main: com.MCDungeon.battleArena.Main
+name: Arena
+version: 1.0
+author: Youssef Elwakil
+
+commands:
+  Arena:
+    aliases: aJ
